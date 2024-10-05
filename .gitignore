@@ -1,0 +1,9 @@
+# Ignore weight files 
+*.weights weights/ 
+# Ignore output files 
+*.avi
+#Python 
+__pycache__/
+*.py[cod]
+*.class
+
