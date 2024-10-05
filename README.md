@@ -1,6 +1,3 @@
-Certainly! Below is the updated `README.md` for your **YOLOv4 Object Detection Project**, incorporating the comprehensive testing script you provided. The **Testing Process** section has been expanded to include detailed steps and the complete testing code.
-
----
 
 # YOLOv4 Object Detection Project
 
